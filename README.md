@@ -84,7 +84,9 @@
 	select * from user where id=6
 	```
 
+
 - 3、对数据表的查询 `select`	接上一部分
+	- 这一部分比较复杂，整理需要时间，找到了很早之前的[记录，点击查看](https://docs.qq.com/doc/p/68a733afe6e9dae28bdbce809b1c633b98623b4c?dver=2.1.27141849)
 	- 单表查询
 	- 多表查询
 	- 左连接查询
